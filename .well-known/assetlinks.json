@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.leemcq.fellowshipfaceoff",
+      "sha256_cert_fingerprints": [
+        "C1:07:58:56:C9:4F:DE:9F:AB:22:1E:23:E6:C3:84:B6:E3:A8:DD:68:C1:99:9F:1D:D0:85:C1:0E:D4:30:03:75"
+      ]
+    }
+  }
+]
